@@ -16,5 +16,5 @@
     "@react-spring/web": "9.2.3",
     "@react-spring/zdog": "9.2.3"
   },
-  "changesets": ["friendly-deers-mate"]
+  "changesets": ["friendly-deers-mate", "sharp-tips-melt"]
 }
